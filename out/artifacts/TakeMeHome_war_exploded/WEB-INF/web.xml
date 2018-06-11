@@ -47,4 +47,13 @@
         <servlet-name>RemoveFromCollectionServlet</servlet-name>
         <url-pattern>/RemoveFromCollectionServlet</url-pattern>
     </servlet-mapping>
+    
+    <servlet>
+        <servlet-name>PublishServlet</servlet-name>
+        <servlet-class>servlet.PublishServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>PublishServlet</servlet-name>
+        <url-pattern>/PublishServlet</url-pattern>
+    </servlet-mapping>
 </web-app>

@@ -24,7 +24,7 @@ public class PublishController {
         }
         try {
             Statement statement = connection.createStatement();
-            statement.executeUpdate("INSERT INTO `pets`(species,petname,petprice,petimgpath,petdetails,phonenumber,ownername,publisherusername) VALUES ('"+pet.getSpecies()+"', '"+pet.getOwnerName()+"', '"+pet.getPetPrice()+"', "+imagePath+", '"+pet.getPetDetails()+"', '"+pet.getPhoneNumber()+"', '"+pet.getOwnerName()+"',"+username+");");
+            statement.executeUpdate("INSERT INTO `pets`(species,petname,petprice,petimgpath,petdetails,phonenumber,ownername,publisherusername) VALUES ('"+pet.getSpecies()+"', '"+pet.getPetName()+"', '"+pet.getPetPrice()+"', '"+imagePath+"', '"+pet.getPetDetails()+"', '"+pet.getPhoneNumber()+"', '"+pet.getOwnerName()+"','"+username+"');");
         } catch (SQLException e) {
             e.printStackTrace();
         }
@@ -41,7 +41,7 @@ public class PublishController {
         }
         try {
             Statement statement = connection.createStatement();
-            statement.executeUpdate("UPDATE `pets`(species,petname,petprice,petimgpath,petdetails,phonenumber,ownername) VALUES ('"+pet.getSpecies()+"', '"+pet.getOwnerName()+"', '"+pet.getPetPrice()+"', "+imagePath+", '"+pet.getPetDetails()+"', '"+pet.getPhoneNumber()+"', '"+pet.getOwnerName()+"');");
+            statement.executeUpdate("UPDATE `pets` SET species='"+pet.getSpecies()+"',petname='"+pet.getPetName()+"',petprice='"+pet.getPetPrice()+"',petimgpath='"+imagePath+"',petdetails='"+pet.getPetDetails()+"',phonenumber='"+pet.getPhoneNumber()+"',ownername='"+pet.getOwnerName()+"' WHERE petid='"+petId+"';");
         } catch (SQLException e) {
             e.printStackTrace();
         }

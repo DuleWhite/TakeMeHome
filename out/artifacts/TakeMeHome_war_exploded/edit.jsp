@@ -1,4 +1,5 @@
-<%--
+<%@ page import="controller.PetsController" %>
+<%@ page import="module.Pet" %><%--
   Created by IntelliJ IDEA.
   User: duulewhite
   Date: 6/11/18
@@ -73,6 +74,14 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
     });</script>
 </head>
 <body>
+<%
+    String petId = request.getParameter("id");
+    Pet pet = new Pet();
+    if(petId!=null) {
+        pet = PetsController.getPetById(petId);
+        pet.setPetId(petId);
+    }
+%>
 <div class="container">
     <div class="header-top">
         <div class="logo">
@@ -130,43 +139,55 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
         <div class="clearfix"></div>
     </div>
     <div class="content">
+        <form action="/PublishServlet" method="post">
         <div class="content-bottom store">
             <h3>我的发布</h3>
             <div class="bottom-grid container">
+
                 <table class="pet-info">
+                    <%
+                        if(petId!=null){
+                    %>
+                    <tr style="display: none">
+                        <td></td>
+                        <td><input name="petId" value="<%=pet.getPetId()%>"></td>
+                    </tr>
+                    <%
+                        }
+                    %>
                     <tr>
                         <td>宠物名称</td>
-                        <td><input type="text"></td>
+                        <td><input name="petName" type="text" value="<%=pet.getPetName()%>"></td>
                     </tr>
                     <tr>
                         <td>宠物分类</td>
-                        <td><select>
-                            <option value="1">狗狗</option>
-                            <option value="2">猫猫</option>
-                            <option value="3">鸟类</option>
-                            <option value="4">水族</option>
-                            <option value="5">兔兔</option>
+                        <td><select name="petSpecies">
+                            <option <%if(pet.getSpecies().equals("1")){%>selected="selected"<%}%> value="1">狗狗</option>
+                            <option <%if(pet.getSpecies().equals("2")){%>selected="selected"<%}%> value="2">猫猫</option>
+                            <option <%if(pet.getSpecies().equals("3")){%>selected="selected"<%}%> value="3">鸟类</option>
+                            <option <%if(pet.getSpecies().equals("4")){%>selected="selected"<%}%> value="4">水族</option>
+                            <option <%if(pet.getSpecies().equals("5")){%>selected="selected"<%}%> value="5">兔兔</option>
                         </select></td>
                     </tr>
                     <tr>
                         <td>宠物价格</td>
-                        <td><input type="number"></td>
+                        <td><input name="petPrice" type="number" value="<%=pet.getPetPrice()%>"></td>
                     </tr>
                     <tr>
                         <td>上传图片</td>
-                        <td><input type="file"></td>
+                        <td><input name="petImage" type="file"></td>
                     </tr>
                     <tr>
                         <td>联系人</td>
-                        <td><input type="text"></td>
+                        <td><input name="ownerName" type="text" value="<%=pet.getOwnerName()%>"></td>
                     </tr>
                     <tr>
                         <td>联系电话</td>
-                        <td><input type="number"></td>
+                        <td><input name="ownerPhone" type="number" value="<%=pet.getPhoneNumber()%>"></td>
                     </tr>
                     <tr>
                         <td>宠物介绍</td>
-                        <td><textarea cols="60" rows="6" resize="no"></textarea></td>
+                        <td><textarea name="petDetails" cols="60" rows="6" style="resize:none"><%=pet.getPetDetails()%></textarea></td>
                     </tr>
                 </table>
             </div>
@@ -175,6 +196,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
         <div class="website-buttons" style="padding-left: 20px;">
             <input id="publish" type="submit" value="发布">
         </div>
+        </form>
     </div>
 </div>
 </body>

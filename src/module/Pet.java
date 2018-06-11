@@ -76,6 +76,12 @@ public class Pet {
     }
 
     public Pet(){
-
+        this.petName = "";
+        this.petPrice = 0;
+        this.petImagePath = new String[]{""};
+        this.petDetails = "";
+        this.phoneNumber = "";
+        this.ownerName = "";
+        this.species = "";
     }
 }
