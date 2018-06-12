@@ -23,9 +23,6 @@ public class PetsController {
                 case "3":
                 case "4":
                 case "5":
-                case "6":
-                case "7":
-                case "8":
                     sql += " WHERE species='"+species+"';";
                     break;
                 default:

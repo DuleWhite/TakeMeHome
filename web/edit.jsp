@@ -195,7 +195,14 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
         <div class="clearfix"></div>
         <div class="website-buttons" style="padding-left: 20px;">
             <input id="publish" type="submit" value="发布">
-        </div>
+            <%
+                if(petId!=null){
+            %>
+            <a href="/DeletePublishServlet?id=<%=petId%>">删除</a>
+                <%
+                }
+            %>
+    </div>
         </form>
     </div>
 </div>

@@ -33,6 +33,7 @@ public class PublishController {
     public static void publish(String petId, Pet pet){
         Connection connection = DBUtil.getConnection();
         StringBuilder imagePath = new StringBuilder();
+        //1.png&2.png
         String[] imagePaths = pet.getPetImagePath();
         imagePath.append(imagePaths[0]);
         for(int i=1;i<imagePaths.length;i++){
@@ -42,6 +43,16 @@ public class PublishController {
         try {
             Statement statement = connection.createStatement();
             statement.executeUpdate("UPDATE `pets` SET species='"+pet.getSpecies()+"',petname='"+pet.getPetName()+"',petprice='"+pet.getPetPrice()+"',petimgpath='"+imagePath+"',petdetails='"+pet.getPetDetails()+"',phonenumber='"+pet.getPhoneNumber()+"',ownername='"+pet.getOwnerName()+"' WHERE petid='"+petId+"';");
+        } catch (SQLException e) {
+            e.printStackTrace();
+        }
+    }
+
+    public static void deletePublish(String petId){
+        Connection connection = DBUtil.getConnection();
+        try{
+            Statement statement = connection.createStatement();
+            statement.executeUpdate("DELETE FROM `pets` WHERE `petid`='"+petId+"';");
         } catch (SQLException e) {
             e.printStackTrace();
         }

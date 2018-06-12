@@ -1936,7 +1936,8 @@ a.cart-an {
 }
 
 
-.website-buttons input[type="submit"]{
+.website-buttons input[type="submit"],
+.website-buttons a{
 	background: #f02b63;
 	color: #fff;
 	font-size: 1.1em;
@@ -1955,7 +1956,8 @@ a.cart-an {
 	-o-transition: 0.5s all;
 	margin: 0 0 0 6em;
 }
-.website-buttons input[type="submit"]:hover{
+.website-buttons input[type="submit"]:hover,
+.website-buttons a:hover{
 	background:#4cb1ca;
 }
 

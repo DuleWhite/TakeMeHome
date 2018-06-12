@@ -196,9 +196,9 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
                     if(data=="success"){
                         $(window).attr("location","index.jsp");
                     }
-                    else{
-                        alert("用户名已存在");
+                    else{alert("用户名已存在");
                     }
+
                 },
                 error:function (XHR) {
                     alert("服务器内部错误（500:"+XHR.status);

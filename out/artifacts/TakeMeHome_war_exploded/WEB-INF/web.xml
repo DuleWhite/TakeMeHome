@@ -56,4 +56,13 @@
         <servlet-name>PublishServlet</servlet-name>
         <url-pattern>/PublishServlet</url-pattern>
     </servlet-mapping>
+    
+    <servlet>
+        <servlet-name>DeletePublishServlet</servlet-name>
+        <servlet-class>servlet.DeletePublishServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>DeletePublishServlet</servlet-name>
+        <url-pattern>/DeletePublishServlet</url-pattern>
+    </servlet-mapping>
 </web-app>
