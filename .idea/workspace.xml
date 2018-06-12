@@ -5,14 +5,48 @@
       <artifact name="TakeMeHome:war exploded" />
       <artifact name="TakeMeHome:war exploded" />
       <artifact name="TakeMeHome:war exploded" />
+      <artifact name="TakeMeHome:war exploded" />
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9d6859ce-02fa-416b-af06-7193b965b27d" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TakeMeHome.iml" beforeDir="false" afterPath="$PROJECT_DIR$/TakeMeHome.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/TakeMeHome_war_exploded/WEB-INF/classes/controller/AccountController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/TakeMeHome_war_exploded/WEB-INF/classes/controller/AccountController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/TakeMeHome_war_exploded/WEB-INF/classes/controller/PetsController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/TakeMeHome_war_exploded/WEB-INF/classes/controller/PetsController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/TakeMeHome_war_exploded/WEB-INF/classes/controller/PublishController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/TakeMeHome_war_exploded/WEB-INF/classes/controller/PublishController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/TakeMeHome_war_exploded/WEB-INF/classes/module/Pet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/TakeMeHome_war_exploded/WEB-INF/classes/module/Pet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/TakeMeHome_war_exploded/WEB-INF/classes/servlet/AddToCollectionServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/TakeMeHome_war_exploded/WEB-INF/classes/servlet/AddToCollectionServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/TakeMeHome_war_exploded/WEB-INF/classes/servlet/LoginServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/TakeMeHome_war_exploded/WEB-INF/classes/servlet/LoginServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/TakeMeHome_war_exploded/WEB-INF/classes/servlet/LogoutServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/TakeMeHome_war_exploded/WEB-INF/classes/servlet/LogoutServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/TakeMeHome_war_exploded/WEB-INF/classes/servlet/PublishServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/TakeMeHome_war_exploded/WEB-INF/classes/servlet/PublishServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/TakeMeHome_war_exploded/WEB-INF/classes/servlet/RegisterServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/TakeMeHome_war_exploded/WEB-INF/classes/servlet/RegisterServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/TakeMeHome_war_exploded/WEB-INF/classes/servlet/RemoveFromCollectionServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/TakeMeHome_war_exploded/WEB-INF/classes/servlet/RemoveFromCollectionServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/TakeMeHome_war_exploded/WEB-INF/classes/util/DBUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/TakeMeHome_war_exploded/WEB-INF/classes/util/DBUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/TakeMeHome_war_exploded/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/TakeMeHome_war_exploded/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/TakeMeHome_war_exploded/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/TakeMeHome_war_exploded/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/TakeMeHome_war_exploded/edit.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/TakeMeHome_war_exploded/edit.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/TakeMeHome_war_exploded/register.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/TakeMeHome_war_exploded/register.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TakeMeHome/controller/AccountController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TakeMeHome/controller/AccountController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TakeMeHome/controller/PetsController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TakeMeHome/controller/PetsController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TakeMeHome/controller/PublishController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TakeMeHome/controller/PublishController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TakeMeHome/module/Pet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TakeMeHome/module/Pet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TakeMeHome/servlet/AddToCollectionServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TakeMeHome/servlet/AddToCollectionServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TakeMeHome/servlet/LoginServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TakeMeHome/servlet/LoginServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TakeMeHome/servlet/LogoutServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TakeMeHome/servlet/LogoutServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TakeMeHome/servlet/PublishServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TakeMeHome/servlet/PublishServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TakeMeHome/servlet/RegisterServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TakeMeHome/servlet/RegisterServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TakeMeHome/servlet/RemoveFromCollectionServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TakeMeHome/servlet/RemoveFromCollectionServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TakeMeHome/util/DBUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TakeMeHome/util/DBUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controller/PetsController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/controller/PetsController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/controller/PublishController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/controller/PublishController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/module/Pet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/module/Pet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/util/DBUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/util/DBUtil.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/web/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web/edit.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/edit.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/register.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/register.jsp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -38,49 +72,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="single.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/single.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="277" column="18" selection-start-line="277" selection-start-column="18" selection-end-line="277" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AddToCollectionServlet.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/servlet/AddToCollectionServlet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="316">
+              <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="publish.jsp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/publish.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1364">
-              <caret line="136" column="31" selection-start-line="136" selection-start-column="31" selection-end-line="136" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PublishController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/controller/PublishController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PetsController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/controller/PetsController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="17" column="63" selection-start-line="17" selection-start-column="63" selection-end-line="17" selection-end-column="63" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <marker date="1528126564000" expanded="true" signature="513:531" ph="SELECT * FRO... pets" />
-                <marker date="1528126564000" expanded="true" signature="2250:2292" ph="SELECT * FRO... pets" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DBUtil.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/util/DBUtil.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="372">
-              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="-365">
+              <caret line="126" column="49" selection-start-line="126" selection-start-column="49" selection-end-line="126" selection-end-column="49" />
             </state>
           </provider>
         </entry>
@@ -88,22 +102,8 @@
       <file leaf-file-name="edit.jsp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/edit.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="384">
-              <caret line="154" column="22" lean-forward="true" selection-start-line="154" selection-start-column="22" selection-end-line="154" selection-end-column="22" />
-              <folding>
-                <element signature="n#style#0;n#tr#0;n#table#0;n#div#0;n#div#0;n#form#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#textarea#0;n#td#1;n#tr#6;n#table#0;n#div#0;n#div#0;n#form#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#2;n#form#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Pet.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/module/Pet.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="186">
-              <caret line="6" column="34" lean-forward="true" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
+            <state relative-caret-position="118">
+              <caret line="141" column="26" lean-forward="true" selection-start-line="141" selection-start-column="26" selection-end-line="141" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -111,26 +111,35 @@
       <file leaf-file-name="PublishServlet.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/servlet/PublishServlet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="130">
-              <caret line="38" column="44" selection-start-line="38" selection-start-column="44" selection-end-line="38" selection-end-column="44" />
+            <state relative-caret-position="316">
+              <caret line="38" column="16" selection-start-line="38" selection-start-column="16" selection-end-line="38" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="store.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/store.jsp">
+      <file leaf-file-name="DeletePublishServlet.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/servlet/DeletePublishServlet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="31">
-              <caret line="49" column="51" selection-start-line="49" selection-start-column="51" selection-end-line="49" selection-end-column="51" />
+            <state relative-caret-position="290">
+              <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="web.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
+      <file leaf-file-name="PublishController.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/controller/PublishController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="583">
-              <caret line="56" column="49" selection-start-line="56" selection-start-column="49" selection-end-line="56" selection-end-column="49" />
+            <state relative-caret-position="-467">
+              <caret line="47" column="9" lean-forward="true" selection-start-line="47" selection-start-column="9" selection-end-line="47" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="account.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/account.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="422">
+              <caret line="174" column="35" lean-forward="true" selection-start-line="174" selection-start-column="35" selection-end-line="174" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -138,8 +147,17 @@
       <file leaf-file-name="index.jsp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/index.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="98" column="49" selection-start-line="98" selection-start-column="49" selection-end-line="98" selection-end-column="49" />
+            <state relative-caret-position="313">
+              <caret line="147" column="79" selection-start-line="147" selection-start-column="79" selection-end-line="147" selection-end-column="79" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LoginServlet.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/servlet/LoginServlet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="121">
+              <caret line="19" column="26" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -211,26 +229,27 @@
         <option value="$PROJECT_DIR$/src/Pet.java" />
         <option value="$PROJECT_DIR$/src/controller/Pets.java" />
         <option value="$PROJECT_DIR$/web/css/megamenu.css" />
-        <option value="$PROJECT_DIR$/src/controller/PetsController.java" />
         <option value="$PROJECT_DIR$/web/cart.jsp" />
         <option value="$PROJECT_DIR$/src/servlet/AddToCollectionServlet.java" />
         <option value="$PROJECT_DIR$/src/servlet/RemoveFromCollectionServlet.java" />
         <option value="$PROJECT_DIR$/src/controller/AccountController.java" />
         <option value="$PROJECT_DIR$/web/account.jsp" />
-        <option value="$PROJECT_DIR$/web/register.jsp" />
         <option value="$PROJECT_DIR$/web/WEB-INF/edit.jsp" />
         <option value="$PROJECT_DIR$/web/publish.jsp" />
         <option value="$PROJECT_DIR$/web/store.jsp" />
         <option value="$PROJECT_DIR$/web/single.jsp" />
         <option value="$PROJECT_DIR$/web/index.jsp" />
         <option value="$PROJECT_DIR$/web/collection.jsp" />
-        <option value="$PROJECT_DIR$/web/css/style.css" />
-        <option value="$PROJECT_DIR$/src/util/DBUtil.java" />
-        <option value="$PROJECT_DIR$/web/WEB-INF/web.xml" />
-        <option value="$PROJECT_DIR$/web/edit.jsp" />
         <option value="$PROJECT_DIR$/src/servlet/PublishServlet.java" />
-        <option value="$PROJECT_DIR$/src/controller/PublishController.java" />
         <option value="$PROJECT_DIR$/src/module/Pet.java" />
+        <option value="$PROJECT_DIR$/src/servlet/DeletePublishServlet.java" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/web/css/style.css" />
+        <option value="$PROJECT_DIR$/web/register.jsp" />
+        <option value="$PROJECT_DIR$/web/edit.jsp" />
+        <option value="$PROJECT_DIR$/src/controller/PetsController.java" />
+        <option value="$PROJECT_DIR$/src/util/DBUtil.java" />
+        <option value="$PROJECT_DIR$/src/controller/PublishController.java" />
       </list>
     </option>
   </component>
@@ -250,17 +269,18 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="width" value="1920" />
-    <option name="height" value="1080" />
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="697" />
+    <option name="height" value="735" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -306,26 +326,15 @@
               <item name="TakeMeHome" type="b2602c69:ProjectViewProjectNode" />
               <item name="TakeMeHome" type="462c0819:PsiDirectoryNode" />
               <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TakeMeHome" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TakeMeHome" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
               <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TakeMeHome" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TakeMeHome" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -337,7 +346,7 @@
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -419,7 +428,6 @@
       <listeners />
     </configuration>
     <configuration name="Unnamed" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.86" ALTERNATIVE_JRE_ENABLED="false">
-      <option name="BROWSER_ID" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
         <artifact name="TakeMeHome:war exploded">
@@ -491,6 +499,7 @@
           <artifact name="TakeMeHome:war exploded" />
           <artifact name="TakeMeHome:war exploded" />
           <artifact name="TakeMeHome:war exploded" />
+          <artifact name="TakeMeHome:war exploded" />
         </option>
       </method>
     </configuration>
@@ -525,18 +534,17 @@
       <workItem from="1528137432133" duration="643000" />
       <workItem from="1528156494986" duration="295000" />
       <workItem from="1528157525953" duration="11568000" />
-      <workItem from="1528332463615" duration="4874000" />
-      <workItem from="1528718371680" duration="5505000" />
-      <workItem from="1528736536020" duration="808000" />
-      <workItem from="1528738624568" duration="6371000" />
+      <workItem from="1528332463615" duration="10580000" />
+      <workItem from="1528762868860" duration="5447000" />
+      <workItem from="1528769986595" duration="1630000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="92173000" />
+    <option name="totallyTimeSpent" value="101436000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
+    <frame x="0" y="0" width="1680" height="1050" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -550,18 +558,18 @@
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.49222797" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.33008763" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.3312203" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="bottom" id="Java Enterprise" order="7" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.39018404" weight="0.29333332" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.39018404" visible="true" weight="0.373057" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.87768596" visible="true" weight="0.15966387" />
-      <window_info id="Web" order="2" sideWeight="0.12231405" side_tool="true" visible="true" weight="0.15966387" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.8738462" visible="true" weight="0.12515263" />
+      <window_info id="Web" order="2" sideWeight="0.12615384" side_tool="true" visible="true" weight="0.12515263" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -575,8 +583,9 @@
       <window_info anchor="bottom" id="Application Servers" order="12" sideWeight="0.49707174" weight="0.3296355" />
       <window_info id="Designer" order="3" />
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info id="Image Layers" order="5" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.39018404" weight="0.0605042" />
+      <window_info id="Image Layers" order="5" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49615806" visible="true" weight="0.18118466" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
@@ -589,18 +598,17 @@
       <window_info anchor="bottom" id="Messages" order="8" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.62876254" visible="true" weight="0.16837482" />
       <window_info anchor="bottom" id="Java Enterprise" order="9" />
       <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
       <window_info anchor="right" id="Maven Projects" order="4" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.62876254" visible="true" weight="0.16837482" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Database" order="5" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info id="Web" order="6" sideWeight="0.37123746" side_tool="true" visible="true" weight="0.16837482" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info anchor="right" id="Theme Preview" order="8" />
       <window_info id="Structure" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49615806" visible="true" weight="0.18118466" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
     </layout-to-restore>
   </component>
@@ -616,6 +624,13 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/web/store.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2871">
+          <caret line="99" column="22" selection-start-line="99" selection-start-column="22" selection-end-line="99" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/web/account.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3364">
@@ -684,6 +699,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -759,13 +777,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/servlet/RegisterServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="211">
-          <caret line="16" column="50" selection-start-line="16" selection-start-column="50" selection-end-line="16" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/TakeMeHome.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -773,156 +784,146 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/servlet/AddToCollectionServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/servlet/LoginServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="11" column="34" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/css/bootstrap.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-397">
-          <caret line="5592" column="1" selection-start-line="5592" selection-start-column="1" selection-end-line="5592" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/edit.jsp" />
-    <entry file="file://$PROJECT_DIR$/web/single.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2337">
-          <caret line="123" column="70" selection-start-line="123" selection-start-column="70" selection-end-line="123" selection-end-column="70" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/register.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2489">
-          <caret line="131" column="66" selection-start-line="131" selection-start-column="66" selection-end-line="131" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web/collection.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="94" column="70" selection-start-line="94" selection-start-column="70" selection-end-line="94" selection-end-column="70" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/account.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="150" column="68" selection-start-line="150" selection-start-column="24" selection-end-line="150" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="1971" column="24" selection-start-line="1971" selection-start-column="24" selection-end-line="1971" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/controller/AccountController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="98" column="49" selection-start-line="98" selection-start-column="49" selection-end-line="98" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/controller/PetsController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="17" column="63" selection-start-line="17" selection-start-column="63" selection-end-line="17" selection-end-column="63" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <marker date="1528126564000" expanded="true" signature="513:531" ph="SELECT * FRO... pets" />
-            <marker date="1528126564000" expanded="true" signature="2250:2292" ph="SELECT * FRO... pets" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/util/DBUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="372">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="583">
-          <caret line="56" column="49" selection-start-line="56" selection-start-column="49" selection-end-line="56" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/publish.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1364">
-          <caret line="136" column="31" selection-start-line="136" selection-start-column="31" selection-end-line="136" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/store.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="31">
-          <caret line="49" column="51" selection-start-line="49" selection-start-column="51" selection-end-line="49" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/edit.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="154" column="22" lean-forward="true" selection-start-line="154" selection-start-column="22" selection-end-line="154" selection-end-column="22" />
-          <folding>
-            <element signature="n#style#0;n#tr#0;n#table#0;n#div#0;n#div#0;n#form#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#textarea#0;n#td#1;n#tr#6;n#table#0;n#div#0;n#div#0;n#form#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#form#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/servlet/PublishServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="38" column="44" selection-start-line="38" selection-start-column="44" selection-end-line="38" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/controller/PublishController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="3625">
+          <caret line="145" column="34" selection-start-line="145" selection-start-column="34" selection-end-line="145" selection-end-column="34" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/module/Pet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="6" column="34" lean-forward="true" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
+        <state relative-caret-position="1050">
+          <caret line="72" selection-start-line="72" selection-end-line="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="65" column="56" selection-start-line="65" selection-start-column="56" selection-end-line="65" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="1961" column="1" selection-start-line="1961" selection-start-column="1" selection-end-line="1961" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/controller/PetsController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1972">
+          <caret line="76" column="34" selection-start-line="76" selection-start-column="34" selection-end-line="76" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/util/DBUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/store.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-501">
+          <caret line="114" column="66" selection-start-line="114" selection-start-column="66" selection-end-line="114" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/servlet/RegisterServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="15" column="28" lean-forward="true" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/register.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="198" column="34" lean-forward="true" selection-start-line="198" selection-start-column="34" selection-end-line="198" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/controller/AccountController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="37" column="22" selection-start-line="37" selection-start-column="22" selection-end-line="37" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/servlet/LoginServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="19" column="26" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/account.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="422">
+          <caret line="174" column="35" lean-forward="true" selection-start-line="174" selection-start-column="35" selection-end-line="174" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313">
+          <caret line="147" column="79" selection-start-line="147" selection-start-column="79" selection-end-line="147" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/single.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="277" column="18" selection-start-line="277" selection-start-column="18" selection-end-line="277" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/servlet/AddToCollectionServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/servlet/DeletePublishServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/publish.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-365">
+          <caret line="126" column="49" selection-start-line="126" selection-start-column="49" selection-end-line="126" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/edit.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="141" column="26" lean-forward="true" selection-start-line="141" selection-start-column="26" selection-end-line="141" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/servlet/PublishServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="38" column="16" selection-start-line="38" selection-start-column="16" selection-end-line="38" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/controller/PublishController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-467">
+          <caret line="47" column="9" lean-forward="true" selection-start-line="47" selection-start-column="9" selection-end-line="47" selection-end-column="9" />
         </state>
       </provider>
     </entry>
@@ -932,7 +933,7 @@
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
           <artifact-editor />
-          <last-edited />
+          <last-edited>TakeMeHome:war exploded</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -992,7 +993,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited />
+          <last-edited>Java EE 6-Java EE 6</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
